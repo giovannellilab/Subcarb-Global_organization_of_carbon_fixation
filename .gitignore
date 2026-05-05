@@ -1,0 +1,8 @@
+figures/
+.DS_Store
+.RData
+.Rhistory
+__pycache__/
+.ipynb_checkpoints/
+data_processed/*
+!data_processed/.gitkeep
