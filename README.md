@@ -1,19 +1,22 @@
-# Global carbon fixation in Earth's subsurface biosphere
+# Global organization of carbon fixation in Earth's subsurface biosphere
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](https://www.donatogiovannelli.com)
-[![funded-by-erc](https://img.shields.io/badge/Funded%20by-MSCA-ff6400.svg)](https://marie-sklodowska-curie-actions.ec.europa.eu/)
-[![project-subcarb](https://img.shields.io/badge/Project-MSCA%20Subcarb-000fa9.svg)](https://giovannellilab.github.io/subcarb/)
-[![made-with-python](https://img.shields.io/badge/Coded%20in-Python%20%7C%20R-blue.svg)](https://www.python.org/)
+[![funded-by-erc](https://img.shields.io/badge/Funded%20by-ERC-ff6400.svg)](https://erc.europa.eu/homepage)
+[![funded-by-mcsa](https://img.shields.io/badge/Funded%20by-MCSA-CC1253.svg)](https://marie-sklodowska-curie-actions.ec.europa.eu/)
+[![project-coevolve](https://img.shields.io/badge/Project-ERC%20CoEvolve-000fa9.svg)](https://www.coevolve.eu/)
+[![forged-with-carbon](https://img.shields.io/badge/Forged%20with-Carbon-black.svg)]()
+[![made-with-python-r](https://img.shields.io/badge/Coded%20in-Python%20%7C%20R-blue.svg)](https://www.python.org/)
 
-Benoit de Pins, Guillermo Climent Gargallo, Martina Cascone, Matteo Selci, Flavia Migliaccio, Deborah Bastoni, Angelina Cordone, Alberto Vitale Brovarone, Stefano Caliro, Gerdhard L. Jessen, J. Maarten de Moor, Peter H. Barry, Karen G. Lloyd, The CoEvolve Project Consortium, and Donato Giovannelli
+Data and code relative to the de Pins et al. 2026 manuscript on the global organization of carbon fixation in Earth's subsurface biosphere.
 
 ## Overview
 
-This repository contains the code and metadata to reproduce all analyses and figures from the paper. We systematically characterise carbon fixation pathways across 1,513 metagenomes (412 subsurface, including 242 new samples, compared with surface ocean, freshwater and soil datasets) and estimate a global continental subsurface chemolithotrophic carbon fixation rate of ~2.65 Pg C yr⁻¹.
+
+We systematically characterise carbon fixation pathways across 1,513 metagenomes (412 subsurface, including 242 new samples, compared with surface ocean, freshwater and soil datasets) and estimate a global continental subsurface chemolithotrophic carbon fixation rate of ~2.65 Pg C yr⁻¹.
 
 ## Repository structure
 
@@ -43,3 +46,7 @@ Run the Python notebooks in `scripts/` in order, then the R notebook in `r_analy
 **Python:** `pandas`, `numpy`, `scipy`, `matplotlib`, `geopandas`, `scikit-learn`, `scikit-bio`, `statsmodels`, `adjustText`, `mpltern`, `shapely`
 
 **R:** `phyloseq`, `igraph`, `ggplot2`, `tidyverse`, `corrplot`, `viridis`, `svglite`
+
+## Please cite as
+
+Benoit de Pins, Guillermo Climent Gargallo, Martina Cascone, Matteo Selci, Flavia Migliaccio, Deborah Bastoni, Angelina Cordone, Alberto Vitale Brovarone, Stefano Caliro, Gerdhard L. Jessen, J. Maarten de Moor, Peter Barry, Karen G. Lloyd, The CoEvolve Project Consortium and Donato Giovannelli. 2026. Global organization of carbon fixation in Earth's subsurface biosphere. BioRxiv, submitted
