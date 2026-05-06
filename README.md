@@ -11,6 +11,9 @@
 [![forged-with-carbon](https://img.shields.io/badge/Forged%20with-Carbon-black.svg)]()
 [![made-with-python-r](https://img.shields.io/badge/Coded%20in-Python%20%7C%20R-blue.svg)](https://www.python.org/)
 
+[![DOI](https://zenodo.org/badge/1211647031.svg)](https://doi.org/10.5281/zenodo.20053397)
+
+
 Data and code relative to the de Pins et al. 2026 manuscript on the global organization of carbon fixation in Earth's subsurface biosphere.
 
 ## Overview
